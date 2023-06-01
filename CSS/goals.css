@@ -1,0 +1,129 @@
+.subhead {
+    color:white;
+    font-size: 100px;
+    margin-top: -20;
+}
+.Goals {
+    width: 100%;
+    height: 1100px;
+    background-color: black;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    font-weight: 900;
+}
+.Goals #section1 {
+    flex-direction: column;
+    align-items: center;
+    font-size: 80px;
+    color: black;
+}
+.Goals #section1 p{
+    font-size: 80px;
+    color: black;
+}
+.Goals #section2{
+    align-items: center;
+}
+.Goals #section2 .section2_inline{
+    display: inline-block;
+    text-align: center;
+    width: 900px;
+    height: 500px;
+    font-size: 50px;
+    color: black;
+    margin: 50px;
+
+}
+.section2_inline p{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.Goals #section3{
+    margin: 0;
+    font-size: 50px;
+    color: black;
+    flex-direction: column;
+    align-items: center;
+}
+.Goals #section3 .section3_block{
+    width: 1900px;
+    height: 500px;
+    font-size: 50px;
+    color: black;
+}
+.section_smallblock1{
+    display: inline-block;
+}
+.section_smallblock1 img{
+    width: 500px;
+    height: 300px;
+    border: 20px solid black;
+}
+.section_smallblock2{
+    display: inline-block;
+    width: 1200px;
+    height: 500px;
+}
+.section_smallblock2 p{
+    font-size: 23px;
+    font-weight: 800;
+    color: black;
+    margin-left: 35px;
+}
+.Goals #section4{
+    margin: 0;
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+    flex-direction: column;
+    align-items: center;
+}
+.Goals #section4 .section4_block{
+    flex-direction: row; 
+    align-items: center;
+    width: 1900px;
+    height: 600px;
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+}
+.Goals #section5 {
+    flex-direction: column;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+}
+.Goals #section5 p{
+    font-size: 30px;
+    color: black;
+}
+.Goals #section6 {
+    flex-direction: column;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+}
+.Goals #section6 p{
+    font-size: 30px;
+    color: black;
+}
+
+.sectionMenu{
+    margin-top: -100px;
+}
+.sectionMenu a{
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 30px;
+    padding: 10,10,10,10;
+    width: 200px;
+    height: 50px;
+    margin-top: 100px;
+}
